@@ -1,5 +1,5 @@
 # AireLogic-MediScore
-
+Breaking down the task:
 MediScore ranges from 0 to 14.
 Different properties
 1. respiration rate
