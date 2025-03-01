@@ -30,4 +30,5 @@ Which is the reason for me generating 24 different tests for patient 1. The code
 which is performed once every two hours however, the code will still hold 24 lots of MediScore test and their times.
 I used a class to store the data in called patient this allowed me to make my code more concise by not having to repeat sections
 such as displaying all the patient data, declaring new variables for each test and allows me to change the data about each patient
-without effecting any of the other patients.
+without effecting any of the other patients. It also allows me to easily add some simply validation to the data being inputted to ensure
+that it is correct.
